@@ -1,0 +1,2 @@
+print("Squash!")
+print("AHAHA")
